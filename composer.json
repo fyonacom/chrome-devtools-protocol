@@ -21,7 +21,7 @@
   "require": {
     "ext-json": "*",
     "guzzlehttp/guzzle": "^7.0",
-    "php": "~7.1",
+    "php": "~7.1|~8",
     "symfony/filesystem": ">=2.3",
     "symfony/process": ">=3.3",
     "wrench/wrench": "~2.0.10"
